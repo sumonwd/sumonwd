@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 - Backend: Laravel, PHP
 - Frontend: JavaScript, Vue.js, React.js
-- Mobile: Flutter, Native Script (in progress)
+- Mobile: Flutter, Native Script
 
 ## 🔗 Connect with me
 - GitHub: [www.github.com/sumonwd](www.github.com/sumonwd)
